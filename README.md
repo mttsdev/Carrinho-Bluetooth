@@ -1,7 +1,7 @@
 # Exploração IoT: Robótica e Comunicação Bluetooth
 
 ## Sobre o Projeto
-Este projeto prático foi desenvolvido em equipe durante o primeiro semestre do bacharelado em **Ciência da Computação na FMU**. O objetivo principal foi integrar conceitos de hardware e software, estabelecendo uma comunicação remota e confiável entre um dispositivo mobile e um microcontrolador através do protocolo **Bluetooth**.
+Este projeto prático foi desenvolvido em equipe durante o primeiro semestre de **Ciência da Computação na FMU**. O objetivo principal foi integrar conceitos de hardware e software, estabelecendo uma comunicação remota e confiável entre um dispositivo mobile e um microcontrolador através do protocolo **Bluetooth**.
 <div align="center">
 <img src="pc-carrinho.jpeg" width="45%" alt="Código na IDE do Arduino" />
 </div>
