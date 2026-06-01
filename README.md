@@ -1,4 +1,4 @@
-# Exploração IoT: Robótica e Comunicação Bluetooth
+# IoT: Carrinho movido a Bluetooth
 
 ## Sobre o Projeto
 Este projeto prático foi desenvolvido em equipe durante o primeiro semestre de **Ciência da Computação na FMU**. O objetivo principal foi integrar conceitos de hardware e software, estabelecendo uma comunicação remota e confiável entre um dispositivo mobile e um microcontrolador através do protocolo **Bluetooth**.
